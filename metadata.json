@@ -1,0 +1,6 @@
+{
+  "name": "Fairybread & Fractions Parent Portal",
+  "description": "Parent portal for tracking children's learning journeys, weekly bookings, invoices, tutor messages, and progress reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
